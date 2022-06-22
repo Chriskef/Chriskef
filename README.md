@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chriskef
 - 👀 I’m interested in Web Developing
 - 🌱 I’m currently learning how to build an eshop using Magento2
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on a Web Developing Company
 - 📫 How to reach me : chriskef77@gmail.com
 
 <!---
